@@ -1,0 +1,33 @@
+
+public class Programa15 {
+
+	public static void main(String[] args) {
+		
+		int num1 = 5, num2 = 9, res;
+		float res2;
+		
+		//Soma
+		res = num1 + num2;
+		System.out.println("A soma de " + num1 + " + " + num2 + " é " + res);
+		
+		//Subtração
+		res = num1 - num2;
+		System.out.println("A soma de " + num1 + " - " + num2 + " é " + res);
+		
+		//Multiplicação
+		res = num1 * num2;
+		System.out.println("A soma de " + num1 + " * " + num2 + " é " + res);
+		
+		//Divisão
+		res = num1 / num2;
+		System.out.println("A soma de " + num1 + " / " + num2 + " é " + res);
+		
+		//Divisão
+		res2 = num1 / num2;
+		System.out.println("A soma de " + num1 + " / " + num2 + " é " + res2);
+		
+		
+
+	}
+
+}

@@ -1,0 +1,20 @@
+
+public class Programa13 {
+
+	public static void main(String[] args) {
+		
+		//Tipos primitivos
+		char letra = 'a';
+		
+		System.out.println("letra " + letra);
+		
+		//Tipos não primitivos
+		Character letra2 = 'A';
+		
+		System.out.println("letra2 " + letra2);
+		
+		System.out.println("char/Character " + Character.SIZE)+ " bits" );
+
+	}
+
+}

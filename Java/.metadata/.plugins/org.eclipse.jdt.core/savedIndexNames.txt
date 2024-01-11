@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/home/andersonsilva/Documentos/Triha Desenvolvimento/Java/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3041714416.index
+3948953237.index
+1612074519.index

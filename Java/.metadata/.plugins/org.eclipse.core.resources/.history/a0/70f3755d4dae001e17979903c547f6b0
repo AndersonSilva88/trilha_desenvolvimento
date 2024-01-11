@@ -1,0 +1,12 @@
+
+public class Programa12 {
+
+	public static void main(String[] args) {
+		
+		//tipos primários
+		float preco1 = 23.4f;
+		double preco2 = 23.4;
+
+	}
+
+}
