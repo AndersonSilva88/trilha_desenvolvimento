@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="Pessoa"/>
     <fullyQualifiedTypeName name="Cliente"/>
     <fullyQualifiedTypeName name="Conta"/>
+    <fullyQualifiedTypeName name="Pessoa"/>
+    <fullyQualifiedTypeName name="Professor"/>
 </qualifiedTypeNameHistroy>
