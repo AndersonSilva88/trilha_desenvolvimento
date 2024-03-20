@@ -3383,3 +3383,16 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY ch.qos.logback.classic 1 0 2024-03-15 05:55:28.226
 !MESSAGE Logback config file: /home/andersonsilva/Documentos/Triha Desenvolvimento/Java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+!SESSION 2024-03-17 09:34:41.772 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-17 09:34:49.355
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-17 09:34:52.962
+!MESSAGE Logback config file: /home/andersonsilva/Documentos/Triha Desenvolvimento/Java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
