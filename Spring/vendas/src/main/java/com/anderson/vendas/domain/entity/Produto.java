@@ -1,5 +1,7 @@
 package com.anderson.vendas.domain.entity;
 
+
+
 import jakarta.persistence.*;
 
 import java.math.BigDecimal;

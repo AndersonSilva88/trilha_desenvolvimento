@@ -1,9 +1,7 @@
 package com.anderson.vendas.domain.entity;
 
-import com.anderson.vendas.domain.entity.Cliente;
-import com.anderson.vendas.domain.entity.ItemPedido;
-import jakarta.persistence.*;
 
+import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.List;
